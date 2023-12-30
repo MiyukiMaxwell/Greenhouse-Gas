@@ -3,7 +3,7 @@ The dataset was downloaded from [stats.govt.nz](https://www.stats.govt.nz/large-
 I will use this data to explore the trends over the years of the greenhouse gas emissions in NZ.
 
 ## Installation packages
-import pandas as pd
-import seaborn as sns
-import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd  
+import seaborn as sns  
+import numpy as np  
+import matplotlib.pyplot as plt  
